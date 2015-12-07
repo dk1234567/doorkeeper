@@ -1,3 +1,4 @@
+test
 # Doorkeeper - awesome oauth provider for your Rails app.
 
 [![Build Status](https://travis-ci.org/doorkeeper-gem/doorkeeper.svg?branch=master)](https://travis-ci.org/doorkeeper-gem/doorkeeper)
